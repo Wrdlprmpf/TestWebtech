@@ -1,0 +1,11 @@
+.login{
+    position: absolute;
+    right:160px;
+}
+.register{
+    position: absolute;
+    right: 10px;
+}
+a{
+    width: 100px;
+}
